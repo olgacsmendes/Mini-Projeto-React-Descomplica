@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mini-Projeto-React-Descomplica/static/css/main.ee8d454e.css",
+    "main.js": "/Mini-Projeto-React-Descomplica/static/js/main.fe379c18.js",
+    "static/media/04.jpg": "/Mini-Projeto-React-Descomplica/static/media/04.db6ba044dd73a5ec6252.jpg",
+    "static/media/05.jpg": "/Mini-Projeto-React-Descomplica/static/media/05.04c0681fbaf02026d86b.jpg",
+    "static/media/03.jpg": "/Mini-Projeto-React-Descomplica/static/media/03.0b2c7b07a4d3c84d1c95.jpg",
+    "static/media/06.jpg": "/Mini-Projeto-React-Descomplica/static/media/06.4961326591a7dc5c246f.jpg",
+    "static/media/02.jpg": "/Mini-Projeto-React-Descomplica/static/media/02.29f41c804361138b9603.jpg",
+    "static/media/01.jpg": "/Mini-Projeto-React-Descomplica/static/media/01.08a9b645f40b348f8e93.jpg",
+    "index.html": "/Mini-Projeto-React-Descomplica/index.html",
+    "main.ee8d454e.css.map": "/Mini-Projeto-React-Descomplica/static/css/main.ee8d454e.css.map",
+    "main.fe379c18.js.map": "/Mini-Projeto-React-Descomplica/static/js/main.fe379c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8d454e.css",
+    "static/js/main.fe379c18.js"
+  ]
+}
