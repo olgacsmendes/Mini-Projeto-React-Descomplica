@@ -2,6 +2,10 @@
 
 Este é um projeto simples em React para uma lojinha virtual com carrinho de compras.
 
+### Acesso ao Projeto
+
+Você pode acessar o projeto [clicando aqui](https://olgacsmendes.github.io/Mini-Projeto-React-Descomplica/).
+
 ### Versões das Tecnologias Utilizadas:
 
 - React: ^18.2.0
